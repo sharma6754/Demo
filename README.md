@@ -11,3 +11,4 @@ Unmodified
 
 git add filename (tab button as shortcut)
 git add . (for adding all untracked files/unmodified changes)
+git commit -m"some meaningfull message"
